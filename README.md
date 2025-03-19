@@ -21,7 +21,7 @@
 [<!-- PROJECT LOGO -->
 <br />
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/shinyoung3/QC-MTV">
     <img src="images/Qubit.png" alt="Logo" width="80" height="80">
   </a>
