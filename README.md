@@ -2,7 +2,7 @@
 
 
 ## About This Project
-<img src="images/Figure1.jpg">
+<img src="images/image.jpg">
 This work introduces a novel quantum computing algorithm designed to efficiently explore the vast potential space of MTV porous materials. We utilized qubits to represent the reticular architecture of these materials and incorporated compositional, structural, and balance constraints into the Hamiltonian. This approach identifies optimal arrangements of building blocks that meet all specified design criteria. 
 
 ## Usage
