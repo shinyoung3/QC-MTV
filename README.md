@@ -9,7 +9,8 @@ This work introduces a novel quantum computing algorithm designed to efficiently
 
 This repository includes **Jupyter notebook examples** and **Python scripts** to demonstrate the application of our Hamiltonian model to user-specified multivariate material configurations.
 
-- `hamiltonina_model_test.ipynb` : Provides an example of running **SamplingVQE simulation** using a classical simulator. 
+- `hamiltonina_model_test.ipynb` : Provides an example of running **SamplingVQE simulation** using a classical simulator.
+  - Demonstrates the implementation of our custom Hamiltonian model, helping users understand how to apply the model to different MTV structure configurations. 
 - `cost/` : Contains the implementation of **the Hamiltonian model.**
   - Includes the `MTVcost()` class, which formulates the cost function for material optimization.
 - `visualize/` : Contains visualization utilities.
