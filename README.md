@@ -56,7 +56,7 @@
 
 ## About The Project
 
-![Figure1](C:\Users\andy\Dropbox\PC (2)\Desktop\QuantumPPT\Figure1.png)
+<img src="images/Figure1.png" alt="Logo" width="80" height="80">
 
 This work presents a novel quantum computing algorithm designed to efficiently explore the vast potential space of Multivariate(MTV) porous materials. We utilized qubits to represent the reticular architecture of these materials and incorporated compositional, structural, and balance constraints into the Hamiltonian. This approach identifies optimal arrangements of building blocks that meet all specified design criteria. You can follow the instructions provided to construct your own MTV porous materials.
 
