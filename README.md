@@ -51,7 +51,8 @@ To use the provided tools, follow these steps:
 
 If you want to use our QC-MTV framework in your research, please cite:
 
->  Quantum Computing Based Design of Multivariate Porous Materials [[link]](https://arxiv.org/abs/2502.06339)
+>  Quantum Computing Based Design of Multivariate Porous Materials [[link]](https://pubs.acs.org/doi/10.1021/acscentsci.5c00918)
+
 
 
 
